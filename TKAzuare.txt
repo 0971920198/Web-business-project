@@ -1,0 +1,9 @@
+TK. Azuare
+User: thanhnhu080195@gmail.com
+pass:A08011995a
+--------------------------------
+ConnectServer:
+Database Name: DBSEO
+servername:thanhnhu080195.database.windows.net
+user:thanhnhu080195
+pass:A08011995a
